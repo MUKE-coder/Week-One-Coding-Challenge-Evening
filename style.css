@@ -78,3 +78,8 @@ a {
   border-bottom-left-radius: 50px;
   border-top-right-radius: 50px;
 }
+footer {
+  text-align: center;
+  padding: 3rem;
+  font-size: 20px;
+}
